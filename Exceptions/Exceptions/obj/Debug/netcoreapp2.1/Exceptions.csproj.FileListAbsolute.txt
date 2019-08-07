@@ -1,0 +1,11 @@
+D:\VolatileData\Profiles\TEMP\source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.csprojAssemblyReference.cache
+D:\VolatileData\Profiles\TEMP\source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.csproj.CoreCompileInputs.cache
+D:\VolatileData\Profiles\TEMP\source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.AssemblyInfoInputs.cache
+D:\VolatileData\Profiles\TEMP\source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.AssemblyInfo.cs
+D:\VolatileData\Profiles\TEMP\source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.deps.json
+D:\VolatileData\Profiles\TEMP\source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.runtimeconfig.json
+D:\VolatileData\Profiles\TEMP\source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.runtimeconfig.dev.json
+D:\VolatileData\Profiles\TEMP\source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.dll
+D:\VolatileData\Profiles\TEMP\source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp2.1\Exceptions.pdb
+D:\VolatileData\Profiles\TEMP\source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.dll
+D:\VolatileData\Profiles\TEMP\source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp2.1\Exceptions.pdb
